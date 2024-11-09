@@ -1,0 +1,131 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+586322,19,BlockedShot,0.8109999847412109,0.7390000152587891,0.016330625861883163,Nico Schlotterbeck,h,7485,OpenPlay,2024,LeftFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Karim Adeyemi,Rebound
+586338,64,MissedShots,0.705999984741211,0.6459999847412109,0.009876078926026821,Nico Schlotterbeck,h,7485,OpenPlay,2024,LeftFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,,None
+589107,62,SavedShot,0.9519999694824218,0.4279999923706055,0.358583927154541,Nico Schlotterbeck,a,7485,SetPiece,2024,Head,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Pascal Groß,Cross
+600287,58,SavedShot,0.91,0.455,0.10495904833078384,Nico Schlotterbeck,h,7485,FromCorner,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Serhou Guirassy,HeadPass
+586337,62,SavedShot,0.7969999694824219,0.605,0.03863631561398506,Niklas Süle,h,75,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Maximilian Beier,Pass
+586343,81,MissedShots,0.9769999694824218,0.4229999923706055,0.10204999148845673,Niklas Süle,h,75,FromCorner,2024,Head,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,Cross
+593106,37,MissedShots,0.924000015258789,0.38,0.011711657978594303,Niklas Süle,a,75,SetPiece,2024,Head,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Pascal Groß,Aerial
+593108,48,MissedShots,0.9519999694824218,0.43400001525878906,0.06135499104857445,Niklas Süle,a,75,FromCorner,2024,Head,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,,Aerial
+593676,88,MissedShots,0.815,0.46,0.08238677680492401,Niklas Süle,h,75,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Karim Adeyemi,Pass
+586334,59,MissedShots,0.9169999694824219,0.6020000076293945,0.0389503575861454,Waldemar Anton,h,106,FromCorner,2024,Head,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,Cross
+586344,83,BlockedShot,0.89,0.5479999923706055,0.01529239397495985,Waldemar Anton,h,106,FromCorner,2024,Head,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,Aerial
+589097,25,BlockedShot,0.8690000152587891,0.4879999923706055,0.015887627378106117,Waldemar Anton,a,106,FromCorner,2024,Head,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,,Aerial
+589098,32,MissedShots,0.899000015258789,0.3290000152587891,0.29003429412841797,Waldemar Anton,a,106,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Pascal Groß,Chipped
+596634,23,MissedShots,0.8919999694824219,0.5640000152587891,0.03991367667913437,Waldemar Anton,h,106,FromCorner,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Pascal Groß,Cross
+596639,41,MissedShots,0.8919999694824219,0.48400001525878905,0.018357250839471817,Waldemar Anton,h,106,FromCorner,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Pascal Groß,Aerial
+586336,61,BlockedShot,0.9080000305175782,0.3060000038146973,0.04544944316148758,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,,Rebound
+593646,7,MissedShots,0.865999984741211,0.7230000305175781,0.034211788326501846,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,Pass
+595398,61,Goal,0.860999984741211,0.6430000305175781,0.063902348279953,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+595399,72,SavedShot,0.815,0.485,0.04764930531382561,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,,None
+596632,21,SavedShot,0.86,0.295,0.03704550117254257,Julian Ryerson,h,7997,OpenPlay,2024,LeftFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Brandt,Pass
+596654,86,BlockedShot,0.87,0.3170000076293945,0.055829375982284546,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,Rebound
+589110,93,SavedShot,0.879000015258789,0.3240000152587891,0.058460600674152374,Donyell Malen,a,9749,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Pascal Groß,Pass
+590349,10,Goal,0.8230000305175781,0.51,0.07171561568975449,Donyell Malen,h,9749,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Karim Adeyemi,Pass
+590358,44,BlockedShot,0.845,0.27100000381469724,0.02453427016735077,Donyell Malen,h,9749,SetPiece,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Julian Brandt,Pass
+590361,51,MissedShots,0.845,0.47900001525878905,0.11947015672922134,Donyell Malen,h,9749,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Karim Adeyemi,Pass
+596630,14,BlockedShot,0.9680000305175781,0.3970000076293945,0.12667079269886017,Donyell Malen,h,9749,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,TakeOn
+596642,46,MissedShots,0.9340000152587891,0.4809999847412109,0.4573213756084442,Donyell Malen,h,9749,OpenPlay,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Ramy Bensebaini,Cross
+596648,63,MissedShots,0.9730000305175781,0.4520000076293945,0.656689465045929,Donyell Malen,h,9749,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Serhou Guirassy,None
+598324,3,Goal,0.875999984741211,0.48200000762939454,0.3995875120162964,Donyell Malen,a,9749,OpenPlay,2024,LeftFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Serhou Guirassy,Throughball
+590370,92,Goal,0.885,0.5,0.75777667760849,Emre Can,h,604,Penalty,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,,Standard
+593666,61,Goal,0.885,0.5,0.75777667760849,Emre Can,h,604,Penalty,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,,Standard
+593670,72,MissedShots,0.7659999847412109,0.4,0.021214986220002174,Emre Can,h,604,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,,None
+593674,86,ShotOnPost,0.845,0.40400001525878904,0.0914033055305481,Emre Can,h,604,OpenPlay,2024,LeftFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Felix Nmecha,Pass
+595387,36,BlockedShot,0.79,0.40700000762939453,0.03398311138153076,Emre Can,a,604,FromCorner,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Maximilian Beier,Pass
+600284,44,MissedShots,0.7919999694824219,0.42,0.025854673236608505,Emre Can,h,604,FromCorner,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,None
+586329,46,BlockedShot,0.785,0.475,0.03837599232792854,Pascal Groß,h,239,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Julian Ryerson,Pass
+589105,55,BlockedShot,0.735,0.515,0.01840474270284176,Pascal Groß,a,239,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Julian Brandt,Pass
+590348,5,MissedShots,0.7959999847412109,0.40099998474121096,0.040396686643362045,Pascal Groß,h,239,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Julian Ryerson,BallTouch
+593664,49,SavedShot,0.8090000152587891,0.5520000076293945,0.04674777016043663,Pascal Groß,h,239,OpenPlay,2024,LeftFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Julian Ryerson,Pass
+593665,55,BlockedShot,0.8819999694824219,0.4520000076293945,0.08553867787122726,Pascal Groß,h,239,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Julian Brandt,Pass
+596633,23,BlockedShot,0.7630000305175781,0.34,0.020752597600221634,Pascal Groß,h,239,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Brandt,Pass
+598334,56,MissedShots,0.8569999694824219,0.3890000152587891,0.051342207938432693,Pascal Groß,a,239,FromCorner,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,,None
+586328,40,SavedShot,0.8540000152587891,0.7469999694824219,0.028114479035139084,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Nico Schlotterbeck,Pass
+586330,48,MissedShots,0.7569999694824219,0.2720000076293945,0.019434256479144096,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Niklas Süle,Pass
+586335,61,BlockedShot,0.8080000305175781,0.624000015258789,0.038674045354127884,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,Pass
+589099,39,MissedShots,0.7140000152587891,0.47200000762939454,0.01892523467540741,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Jamie Bynoe-Gittens,Pass
+589101,44,MissedShots,0.8959999847412109,0.4379999923706055,0.09391158074140549,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Julian Ryerson,Cross
+593111,50,BlockedShot,0.88,0.595999984741211,0.0895698070526123,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Ramy Bensebaini,Pass
+593113,54,BlockedShot,0.735,0.46900001525878904,0.017273975536227226,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Marcel Sabitzer,Pass
+593650,13,SavedShot,0.8130000305175781,0.43599998474121093,0.05085662007331848,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,Pass
+593659,38,MissedShots,0.93,0.6859999847412109,0.2834467589855194,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Serhou Guirassy,Throughball
+596641,45,MissedShots,0.9259999847412109,0.46799999237060547,0.40435150265693665,Julian Brandt,h,261,OpenPlay,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Nico Schlotterbeck,Cross
+596644,57,SavedShot,0.8,0.34200000762939453,0.03701421245932579,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Marcel Sabitzer,Pass
+596653,86,SavedShot,0.9169999694824219,0.3270000076293945,0.3245900273323059,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Ryerson,Pass
+598341,70,BlockedShot,0.7530000305175781,0.669000015258789,0.012845170684158802,Julian Brandt,a,261,FromCorner,2024,LeftFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,,Aerial
+600274,23,BlockedShot,0.87,0.4540000152587891,0.09873951226472855,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Maximilian Beier,Pass
+600285,48,BlockedShot,0.79,0.26299999237060545,0.055598191916942596,Julian Brandt,h,261,DirectFreekick,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,Standard
+600292,71,SavedShot,0.895,0.4829999923706055,0.4601327180862427,Julian Brandt,h,261,OpenPlay,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Ramy Bensebaini,Cross
+600293,71,SavedShot,0.895,0.4829999923706055,0.15662534534931183,Julian Brandt,h,261,OpenPlay,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,Rebound
+586321,19,MissedShots,0.925,0.41900001525878905,0.09291894733905792,Marcel Sabitzer,h,5248,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Julian Ryerson,Cross
+586326,29,SavedShot,0.9519999694824218,0.5309999847412109,0.6307013034820557,Marcel Sabitzer,h,5248,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Karim Adeyemi,Rebound
+586332,53,BlockedShot,0.8080000305175781,0.529000015258789,0.05559678375720978,Marcel Sabitzer,h,5248,OpenPlay,2024,LeftFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,Pass
+586339,66,BlockedShot,0.8669999694824219,0.34599998474121096,0.05128427967429161,Marcel Sabitzer,h,5248,OpenPlay,2024,LeftFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Julian Brandt,Pass
+586342,75,MissedShots,0.8390000152587891,0.5729999923706055,0.08147139102220535,Marcel Sabitzer,h,5248,OpenPlay,2024,LeftFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Jamie Bynoe-Gittens,Pass
+589108,70,SavedShot,0.740999984741211,0.4929999923706055,0.0210023932158947,Marcel Sabitzer,a,5248,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Nico Schlotterbeck,Pass
+598329,38,SavedShot,0.7440000152587891,0.3290000152587891,0.020671555772423744,Marcel Sabitzer,a,5248,OpenPlay,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Nico Schlotterbeck,Pass
+586325,29,MissedShots,0.905,0.40900001525878904,0.11169373244047165,Karim Adeyemi,h,10772,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Julian Ryerson,Pass
+586331,51,BlockedShot,0.8440000152587891,0.5679999923706055,0.09759663045406342,Karim Adeyemi,h,10772,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Marcel Sabitzer,LayOff
+589106,58,SavedShot,0.759000015258789,0.495,0.043091192841529846,Karim Adeyemi,a,10772,OpenPlay,2024,LeftFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Waldemar Anton,TakeOn
+590350,16,Goal,0.915,0.65,0.34929072856903076,Karim Adeyemi,h,10772,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Julian Brandt,Pass
+590357,40,Goal,0.8619999694824219,0.5159999847412109,0.11208920180797577,Karim Adeyemi,h,10772,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Julian Ryerson,Pass
+593648,10,SavedShot,0.8969999694824219,0.5570000076293945,0.1885993480682373,Karim Adeyemi,h,10772,FromCorner,2024,Head,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,Cross
+593661,42,BlockedShot,0.7969999694824219,0.32099998474121094,0.021355655044317245,Karim Adeyemi,h,10772,OpenPlay,2024,LeftFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Yan Couto,Pass
+593669,72,BlockedShot,0.8680000305175781,0.325,0.07909515500068665,Karim Adeyemi,h,10772,OpenPlay,2024,LeftFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Julian Brandt,Pass
+593672,80,Goal,0.8130000305175781,0.475,0.09922970831394196,Felix Nmecha,h,9202,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Karim Adeyemi,Pass
+596655,87,MissedShots,0.7519999694824219,0.40900001525878904,0.02597009763121605,Felix Nmecha,h,9202,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Maximilian Beier,Pass
+600277,29,BlockedShot,0.885,0.5359999847412109,0.04165825620293617,Felix Nmecha,h,9202,FromCorner,2024,Head,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Pascal Groß,Cross
+586341,71,Goal,0.905,0.6769999694824219,0.057699281722307205,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,TakeOn
+586345,92,Goal,0.8780000305175781,0.6090000152587891,0.42987060546875,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,LeftFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Ramy Bensebaini,TakeOn
+593107,47,SavedShot,0.9180000305175782,0.3039999961853027,0.08274465054273605,Jamie Bynoe-Gittens,a,10542,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Julian Brandt,Pass
+593649,11,BlockedShot,0.9109999847412109,0.700999984741211,0.05238841101527214,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Karim Adeyemi,TakeOn
+593657,36,BlockedShot,0.7930000305175782,0.710999984741211,0.02565959095954895,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,TakeOn
+598328,28,MissedShots,0.705,0.610999984741211,0.018129538744688034,Jamie Bynoe-Gittens,a,10542,OpenPlay,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Nico Schlotterbeck,Pass
+598340,69,SavedShot,0.9330000305175781,0.6959999847412109,0.04821472615003586,Jamie Bynoe-Gittens,a,10542,OpenPlay,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Almugera Kabar,None
+598343,79,MissedShots,0.89,0.7019999694824218,0.0461120530962944,Jamie Bynoe-Gittens,a,10542,OpenPlay,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Almugera Kabar,Pass
+598346,97,SavedShot,0.850999984741211,0.7230000305175781,0.03295818343758583,Jamie Bynoe-Gittens,a,10542,OpenPlay,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Julian Brandt,TakeOn
+600270,5,BlockedShot,0.874000015258789,0.6419999694824219,0.11015445739030838,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Felix Nmecha,Chipped
+600272,13,SavedShot,0.8180000305175781,0.534000015258789,0.2735809087753296,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Julian Brandt,Pass
+600276,28,SavedShot,0.88,0.57,0.39680156111717224,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,TakeOn
+600286,48,BlockedShot,0.8440000152587891,0.4420000076293945,0.06546256691217422,Jamie Bynoe-Gittens,h,10542,SetPiece,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,BallTouch
+600288,60,BlockedShot,0.909000015258789,0.7140000152587891,0.04428531602025032,Jamie Bynoe-Gittens,h,10542,OpenPlay,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Julian Brandt,Pass
+590369,89,BlockedShot,0.8440000152587891,0.5479999923706055,0.08599820733070374,Maximilian Beier,h,8137,OpenPlay,2024,LeftFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,,None
+595396,54,SavedShot,0.8780000305175781,0.40599998474121096,0.3752153813838959,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+595397,57,MissedShots,0.855,0.30100000381469727,0.07310599088668823,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+600271,9,MissedShots,0.9180000305175782,0.4470000076293945,0.3205581307411194,Maximilian Beier,h,8137,OpenPlay,2024,Head,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Jamie Bynoe-Gittens,Cross
+600278,29,Goal,0.960999984741211,0.5179999923706055,0.6632047891616821,Maximilian Beier,h,8137,FromCorner,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Felix Nmecha,Rebound
+600294,73,MissedShots,0.885,0.3629999923706055,0.11254717409610748,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Felix Nmecha,Pass
+590347,2,SavedShot,0.8930000305175781,0.36200000762939455,0.011930749751627445,Ramy Bensebaini,h,3349,SetPiece,2024,Head,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,,Aerial
+593675,87,BlockedShot,0.845999984741211,0.5609999847412109,0.10854528099298477,Ramy Bensebaini,h,3349,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Maximilian Beier,Pass
+596638,38,MissedShots,0.9259999847412109,0.43400001525878906,0.047831058502197266,Ramy Bensebaini,h,3349,FromCorner,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,None
+596640,42,Goal,0.8719999694824219,0.590999984741211,0.024715211242437363,Ramy Bensebaini,h,3349,OpenPlay,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,None
+598326,22,BlockedShot,0.919000015258789,0.6969999694824218,0.06500358134508133,Ramy Bensebaini,a,3349,OpenPlay,2024,LeftFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Julian Brandt,Pass
+598345,89,BlockedShot,0.715,0.4759999847412109,0.017023852095007896,Ramy Bensebaini,a,3349,OpenPlay,2024,LeftFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Jamie Bynoe-Gittens,Pass
+600273,15,MissedShots,0.79,0.6809999847412109,0.02510775998234749,Ramy Bensebaini,h,3349,OpenPlay,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Maximilian Beier,Pass
+600281,35,MissedShots,0.9069999694824219,0.5690000152587891,0.026747416704893112,Ramy Bensebaini,h,3349,SetPiece,2024,Head,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Pascal Groß,Aerial
+590355,36,BlockedShot,0.8590000152587891,0.7030000305175781,0.08351726084947586,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Felix Nmecha,Chipped
+590360,48,BlockedShot,0.894000015258789,0.4470000076293945,0.05760763958096504,Serhou Guirassy,h,3738,FromCorner,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Pascal Groß,Cross
+590363,58,MissedShots,0.909000015258789,0.4909999847412109,0.5432764291763306,Serhou Guirassy,h,3738,OpenPlay,2024,LeftFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,Karim Adeyemi,Pass
+590366,66,SavedShot,0.9219999694824219,0.525,0.5830580592155457,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,,None
+593112,52,SavedShot,0.8480000305175781,0.3820000076293945,0.06462137401103973,Serhou Guirassy,a,3738,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Julian Brandt,Pass
+593116,74,Goal,0.9119999694824219,0.34799999237060547,0.2796434760093689,Serhou Guirassy,a,3738,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Jamie Bynoe-Gittens,Pass
+593658,37,MissedShots,0.9309999847412109,0.5520000076293945,0.05445922166109085,Serhou Guirassy,h,3738,FromCorner,2024,Head,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Yan Couto,Aerial
+593660,39,SavedShot,0.8959999847412109,0.5279999923706055,0.04864949733018875,Serhou Guirassy,h,3738,SetPiece,2024,OtherBodyPart,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,Cross
+593662,42,BlockedShot,0.9059999847412109,0.525,0.11669658869504929,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Yan Couto,Pass
+593663,43,Goal,0.9369999694824219,0.524000015258789,0.5770708918571472,Serhou Guirassy,h,3738,OpenPlay,2024,Head,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Julian Brandt,Aerial
+593671,74,Goal,0.9069999694824219,0.5709999847412109,0.6000584363937378,Serhou Guirassy,h,3738,OpenPlay,2024,LeftFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Karim Adeyemi,Throughball
+593677,90,MissedShots,0.955999984741211,0.539000015258789,0.6575317978858948,Serhou Guirassy,h,3738,OpenPlay,2024,LeftFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Julien Duranville,Pass
+595384,19,MissedShots,0.8,0.3940000152587891,0.03757866099476814,Serhou Guirassy,a,3738,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Maximilian Beier,Pass
+595388,36,MissedShots,0.9059999847412109,0.495,0.09208279103040695,Serhou Guirassy,a,3738,FromCorner,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Emre Can,BallTouch
+596629,6,SavedShot,0.91,0.6120000076293945,0.3715454339981079,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Brandt,Throughball
+596637,38,BlockedShot,0.8809999847412109,0.6079999923706054,0.0819227322936058,Serhou Guirassy,h,3738,OpenPlay,2024,LeftFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Marcel Sabitzer,BallTouch
+596645,61,MissedShots,0.7290000152587891,0.40900001525878904,0.01901838555932045,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,None
+596647,63,MissedShots,0.9669999694824218,0.5320000076293945,0.6402329802513123,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Jamie Bynoe-Gittens,Cross
+596646,63,SavedShot,0.9019999694824219,0.5840000152587891,0.14027078449726105,Serhou Guirassy,h,3738,OpenPlay,2024,LeftFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Brandt,Throughball
+596652,82,Goal,0.9440000152587891,0.48200000762939454,0.45968618988990784,Serhou Guirassy,h,3738,OpenPlay,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Jamie Bynoe-Gittens,Aerial
+598337,61,MissedShots,0.92,0.514000015258789,0.06505555659532547,Serhou Guirassy,a,3738,OpenPlay,2024,Head,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Jamie Bynoe-Gittens,Chipped
+600289,62,BlockedShot,0.845999984741211,0.5329999923706055,0.088520348072052,Serhou Guirassy,h,3738,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Alexander Meyer,Pass
+600290,63,Goal,0.9269999694824219,0.5209999847412109,0.3301831781864166,Serhou Guirassy,h,3738,OpenPlay,2024,OtherBodyPart,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Maximilian Beier,Cross
+595383,18,SavedShot,0.7969999694824219,0.33299999237060546,0.025240633636713028,Yan Couto,a,10946,OpenPlay,2024,LeftFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+593673,82,MissedShots,0.855,0.6379999923706055,0.0882754996418953,Julien Duranville,h,11585,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Serhou Guirassy,Pass
