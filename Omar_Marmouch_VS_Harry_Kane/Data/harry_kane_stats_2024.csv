@@ -1,0 +1,41 @@
+,id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,opponent
+1300,586689,10,SavedShot,92.30000305175781,33.900001525878906,0.07864826172590256,Harry Kane,a,647,OpenPlay,2024,RightFoot,27749,Wolfsburg,Bayern Munich,2,3,2024-08-25 13:30:00,Michael Olise,Pass,Wolfsburg
+1301,586707,79,BlockedShot,91.5,51.79999923706055,0.10775043815374374,Harry Kane,a,647,OpenPlay,2024,RightFoot,27749,Wolfsburg,Bayern Munich,2,3,2024-08-25 13:30:00,Kingsley Coman,Cross,Wolfsburg
+1302,590031,34,BlockedShot,92.4000015258789,56.70000076293945,0.0526578351855278,Harry Kane,h,647,OpenPlay,2024,Head,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,Michael Olise,Aerial,Freiburg
+1303,590032,37,Goal,88.5,50.0,0.75777667760849,Harry Kane,h,647,Penalty,2024,RightFoot,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,None,Standard,Freiburg
+1304,590044,92,BlockedShot,90.30000305175781,56.900001525878906,0.04919910058379173,Harry Kane,h,647,FromCorner,2024,Head,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,Joshua Kimmich,Cross,Freiburg
+1305,591031,6,Goal,84.5999984741211,57.900001525878906,0.08742847293615341,Harry Kane,a,647,OpenPlay,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Serge Gnabry,BallRecovery,Holstein Kiel
+1306,591035,25,MissedShots,90.5999984741211,45.0,0.533030092716217,Harry Kane,a,647,OpenPlay,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Serge Gnabry,Pass,Holstein Kiel
+1307,591040,42,Goal,80.80000305175781,44.0,0.06653312593698502,Harry Kane,a,647,OpenPlay,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Kingsley Coman,Pass,Holstein Kiel
+1308,591046,49,MissedShots,96.80000305175781,40.099998474121094,0.05778276547789574,Harry Kane,a,647,FromCorner,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Joshua Kimmich,Cross,Holstein Kiel
+1309,591055,82,BlockedShot,74.80000305175781,52.09999847412109,0.03961379453539848,Harry Kane,a,647,OpenPlay,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Thomas Müller,Pass,Holstein Kiel
+1310,591058,90,Goal,88.5,50.0,0.75777667760849,Harry Kane,a,647,Penalty,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,None,Standard,Holstein Kiel
+1311,592173,15,MissedShots,72.30000305175781,48.5,0.051165297627449036,Harry Kane,a,647,DirectFreekick,2024,RightFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,None,Standard,Werder Bremen
+1312,592175,22,BlockedShot,89.30000305175781,64.5999984741211,0.04177800565958023,Harry Kane,a,647,OpenPlay,2024,LeftFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Michael Olise,Cross,Werder Bremen
+1313,592177,28,BlockedShot,74.30000305175781,43.400001525878906,0.026978284120559692,Harry Kane,a,647,OpenPlay,2024,RightFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Dayotchanculle Upamecano,Pass,Werder Bremen
+1314,592180,43,BlockedShot,93.0999984741211,51.79999923706055,0.12271971255540848,Harry Kane,a,647,OpenPlay,2024,LeftFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,None,BallTouch,Werder Bremen
+1315,592182,46,BlockedShot,85.80000305175781,60.5,0.09361138194799423,Harry Kane,a,647,OpenPlay,2024,RightFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Joshua Kimmich,Pass,Werder Bremen
+1316,592184,56,Goal,85.0,54.0,0.11678730696439743,Harry Kane,a,647,OpenPlay,2024,RightFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Michael Olise,Pass,Werder Bremen
+1317,592188,71,SavedShot,94.30000305175781,57.29999923706055,0.4026026427745819,Harry Kane,a,647,OpenPlay,2024,Head,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Joshua Kimmich,Aerial,Werder Bremen
+1318,596336,46,MissedShots,80.0999984741211,68.80000305175781,0.07659897953271866,Harry Kane,a,647,DirectFreekick,2024,RightFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,None,Standard,Eintracht Frankfurt
+1319,596341,62,MissedShots,90.4000015258789,52.20000076293946,0.14370258152484894,Harry Kane,a,647,OpenPlay,2024,LeftFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,None,Rebound,Eintracht Frankfurt
+1320,597287,19,MissedShots,91.5999984741211,57.49999999999999,0.04339990019798279,Harry Kane,h,647,OpenPlay,2024,Head,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Thomas Müller,Aerial,VfB Stuttgart
+1321,597291,30,MissedShots,92.9000015258789,58.70000076293945,0.048883914947509766,Harry Kane,h,647,OpenPlay,2024,Head,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Raphael Guerreiro,Chipped,VfB Stuttgart
+1322,597293,50,MissedShots,97.4000015258789,49.099998474121094,0.9011882543563843,Harry Kane,h,647,OpenPlay,2024,LeftFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Serge Gnabry,Pass,VfB Stuttgart
+1323,597296,56,Goal,71.80000305175781,49.0,0.019296035170555115,Harry Kane,h,647,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Joshua Kimmich,Pass,VfB Stuttgart
+1324,597300,59,Goal,92.5999984741211,51.0,0.5422542095184326,Harry Kane,h,647,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,None,TakeOn,VfB Stuttgart
+1325,597299,59,BlockedShot,87.5,53.599998474121094,0.1169857457280159,Harry Kane,h,647,OpenPlay,2024,LeftFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Thomas Müller,Pass,VfB Stuttgart
+1326,597297,59,SavedShot,90.69999694824219,60.79999923706054,0.3749524652957916,Harry Kane,h,647,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Serge Gnabry,Pass,VfB Stuttgart
+1327,597301,66,MissedShots,88.0,42.29999923706055,0.12956345081329346,Harry Kane,h,647,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Alphonso Davies,Pass,VfB Stuttgart
+1328,597304,76,SavedShot,91.19999694824219,70.0,0.08960647135972977,Harry Kane,h,647,OpenPlay,2024,LeftFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Joshua Kimmich,Chipped,VfB Stuttgart
+1329,597306,79,Goal,93.19999694824219,48.400001525878906,0.6123526096343994,Harry Kane,h,647,OpenPlay,2024,LeftFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,None,Rebound,VfB Stuttgart
+1330,599183,29,MissedShots,77.0999984741211,50.5,0.0430474579334259,Harry Kane,a,647,OpenPlay,2024,RightFoot,27812,Bochum,Bayern Munich,0,5,2024-10-27 14:30:00,Alphonso Davies,Pass,Bochum
+1331,599189,56,Goal,87.9000015258789,56.099998474121094,0.39331504702568054,Harry Kane,a,647,OpenPlay,2024,LeftFoot,27812,Bochum,Bayern Munich,0,5,2024-10-27 14:30:00,Jamal Musiala,Pass,Bochum
+1332,599931,14,Goal,88.5,50.0,0.75777667760849,Harry Kane,h,647,Penalty,2024,RightFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,None,Standard,Union Berlin
+1333,599942,50,Goal,95.9000015258789,46.79999923706055,0.5899361968040466,Harry Kane,h,647,OpenPlay,2024,LeftFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Kingsley Coman,HeadPass,Union Berlin
+1334,599948,84,MissedShots,83.5999984741211,69.4000015258789,0.04050253704190254,Harry Kane,h,647,OpenPlay,2024,RightFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Kingsley Coman,Pass,Union Berlin
+1335,601321,23,MissedShots,79.9000015258789,40.70000076293945,0.04466920718550682,Harry Kane,a,647,OpenPlay,2024,RightFoot,27831,St. Pauli,Bayern Munich,0,1,2024-11-09 14:30:00,Jamal Musiala,Pass,St. Pauli
+1336,601325,52,MissedShots,91.5,60.29999923706054,0.3302679657936096,Harry Kane,a,647,OpenPlay,2024,Head,27831,St. Pauli,Bayern Munich,0,1,2024-11-09 14:30:00,Dayotchanculle Upamecano,Aerial,St. Pauli
+1337,601326,70,BlockedShot,73.5,40.599998474121094,0.02681059204041958,Harry Kane,a,647,OpenPlay,2024,RightFoot,27831,St. Pauli,Bayern Munich,0,1,2024-11-09 14:30:00,Leon Goretzka,Pass,St. Pauli
+1338,601331,81,MissedShots,88.5,58.400001525878906,0.11367985606193542,Harry Kane,a,647,OpenPlay,2024,LeftFoot,27831,St. Pauli,Bayern Munich,0,1,2024-11-09 14:30:00,Alphonso Davies,Pass,St. Pauli
+1339,601333,88,SavedShot,90.5,53.0,0.4860471785068512,Harry Kane,a,647,OpenPlay,2024,RightFoot,27831,St. Pauli,Bayern Munich,0,1,2024-11-09 14:30:00,Jamal Musiala,Pass,St. Pauli
